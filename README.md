@@ -1,7 +1,7 @@
 # Question #2
 
 In this question we expect you to write a *Desktop Application*.
-![Sample View](.Readme_images/bf65a19f.png)
+![Sample View](.Readme_images/sin.gif)
 
 ## Recommended Tools
 
